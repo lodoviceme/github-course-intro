@@ -1,3 +1,8 @@
 # github-course-intro
 ### About Me
-I am learning GitHub.
+
+Hi 👋,
+
+I'm Ma. Emmylou Lodovice. You can call me Emmy. 🌻
+
+I'm from Division 2 - Department 2.1 - Section SD52.
